@@ -1,0 +1,9 @@
+flask
+ultralytics==8.2.94
+sqlalchemy
+flask_sqlalchemy
+pyodbc
+python-multipart==0.0.9
+ultralytics==8.2.94
+pillow
+python-dotenv
